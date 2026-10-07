@@ -1,0 +1,7 @@
+11. Esteira de treinamento
+Crie uma classe EsteiraTreinamento com os atributos privados marca, do tipo std::string,
+velocidadeAtual, em km/h, e distanciaPercorrida, em km. Implemente métodos públicos para
+consultar os três atributos, definir a marca, definir a velocidade aceitando valores entre 0,0 e 25,0
+km/h, aumentar a velocidade sem ultrapassar 25,0 km/h e registrar uma corrida. O método de
+corrida deve receber o tempo em horas e somar velocidade atual × tempo à distância acumulada.
+No main, crie um objeto, configure-o, registre uma corrida e exiba o paine
